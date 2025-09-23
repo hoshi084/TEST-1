@@ -1,8 +1,8 @@
-import './coucou.css';
+import './c.css';
 
-export default function coucou({}){
+export default function f({}){
     return (
-        <div className=''>
+        <div className='t'>
             
         </div>
     )
